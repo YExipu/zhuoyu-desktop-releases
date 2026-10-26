@@ -1,0 +1,4 @@
+59bb95cb79c4d7b291f46da8702f2c79e35de9c5986d9a9d93b524f954de8a03  zhuoyu_0.6.1_aarch64.app.tar.gz
+f770d63e3adc7af4870caeca042ac741e2dfdd79e04fdce5e67bc16c344a0d45  zhuoyu_0.6.1_aarch64.app.tar.gz.sig
+a7cdad6eaec0dd654b9523cf28b277b5170e57d354fa912204c82aa9a6c760fb  zhuoyu_0.6.1_aarch64.dmg
+7b8160cefb6a2b61495536d396b285c2d69fa2d82df8c7c9b5799b40cee539fd  latest.json

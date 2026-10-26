@@ -1,0 +1,11 @@
+{
+  "version": "0.6.1",
+  "notes": "新增应用内客户端升级、签名验证、下载进度、SQLite 一致性备份与重启后版本验证。\n\n[zhuoyu-package-bytes:44676338]",
+  "pub_date": "2026-10-26T00:35:29.106Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlkxTEtWbkxDZkdTNnVCb01xeE5KS1J2T3NGZ1ZqUHBmOFdqWXlraEJOeU5aalBKZXJqcDlSenM1R25uMFJKLzIyYW9DdEVjNjdRUTJyemYrQUliTUFGa1BBR1E1eXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTc0OTE5CWZpbGU655Ci546JLmFwcC50YXIuZ3oJdmVyc2lvbjowLjYuMQp4K2UyR2J2YlQwdXRCSUhBWloxK0Y0bXlwajh4Zkh1MWdzVkN2a1hrTlRlR25QM3hmNWlObmlzUVIrbm1JNUtPb1BaTkNMRHFadS9oQzJoYXdBMmFEUT09Cg==",
+      "url": "https://github.com/YExipu/zhuoyu-desktop-releases/releases/download/v0.6.1/zhuoyu_0.6.1_aarch64.app.tar.gz"
+    }
+  }
+}

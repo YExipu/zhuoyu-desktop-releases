@@ -1,2 +1,13 @@
-# zhuoyu-desktop-releases
-Public signed update channel for the Zhuoyu desktop client.
+# 《琢玉》桌面客户端公开更新通道
+
+本仓库只用于分发《琢玉》桌面客户端的公开更新元数据、已签名更新包、安装包、版本说明与公开校验值。
+
+仓库不包含项目源代码、用户数据、SQLite 数据库、API 密钥或更新签名私钥。
+
+## 更新安全
+
+- 客户端通过 Tauri 2 Updater 获取 `latest.json`。
+- 更新包使用 Tauri minisign 签名；客户端内仅保存公钥。
+- SHA-256 用于公开完整性核对，不能替代数字签名的来源验证。
+- 当前发布目标为 macOS Apple Silicon (`darwin-aarch64`)。
+
